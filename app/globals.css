@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .custom-story-main {
+    @apply overflow-hidden rounded-2xl max-sm:rounded-none;
+  }
+
+  .custom-progress-container {
+    @apply !gap-0.5 !p-3;
+  }
+
+  .custom-story-container > div {
+    @apply pt-8;
+  }
+}

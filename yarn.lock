@@ -2363,6 +2363,11 @@ source-map-js@^1.0.2:
   resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.0.2.tgz#adbc361d9c62df380125e7f161f71c826f1e490c"
   integrity sha512-R0XvVJ9WusLiqTCEiGCmICCMplcCkIwwR11mOSD9CR5u+IXYdiseeEuXCVAjS54zqwkLcPNnmU4OeJ6tUrWhDw==
 
+stories-react@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/stories-react/-/stories-react-1.1.2.tgz#1b4293154bc2274a06e2f0d60330d7239868467f"
+  integrity sha512-u+p6SGjYNSqu52kaNvDC/OvAHt5+qbt9/eUkFp0KGBf16FE/Ha1ZUOp3Eg/kT6OEaT4jqbLYY7oo3QkXInvPbg==
+
 streamsearch@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/streamsearch/-/streamsearch-1.1.0.tgz#404dd1e2247ca94af554e841a8ef0eaa238da764"
