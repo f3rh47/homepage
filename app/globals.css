@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  body {
+    @apply overflow-x-hidden scroll-smooth bg-cod-gray text-white;
+  }
+}
+
 @layer components {
   .custom-story-main {
     @apply overflow-hidden rounded-2xl max-sm:rounded-none;
